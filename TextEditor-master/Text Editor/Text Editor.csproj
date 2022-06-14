@@ -115,6 +115,7 @@
     <None Include="Resources\cut.png" />
     <None Include="Resources\undo %281%29.png" />
     <None Include="Resources\redo.png" />
+    <None Include="Resources\list-text.png" />
     <Content Include="Resources\txt-file.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
